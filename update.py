@@ -123,3 +123,6 @@ for addon in installedAddons:
             f.close()
         i += 1
         alreadyDownloaded += fileLength
+print(str.format('{} of {} ({} of {}, {}%) Mods downloaded', i, downloadCount, convert_size(
+    alreadyDownloaded), convert_size(totalLength), getPercent(alreadyDownloaded, totalLength)))
+print("Successfully downloaded all mods.")
