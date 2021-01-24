@@ -11,12 +11,13 @@ modfiles = os.listdir('mods')
 print(str.format('Found {} mods in mods-folder.', len(modfiles)))
 
 
-installedAddons = instanceJson.installedAddons
+installedAddons = instanceJson["installedAddons"]
 
 for addon in installedAddons:
-    displayName = addon.installedFile.displayName
-    fileName = addon.installedFile.fileName
-    downloadUrl = addon.installedFile.downloadUrl
+    installedFile = addon["installedFile"]
+    displayName = installedFile["displayName"]
+    fileName = installedFile["fileName"]
+    downloadUrl = installedFile["downloadUrl"]
     if not fileName in modfiles:
         print(str.format('Mod "{}" not found; Downloading from {}',
                          displayName, downloadUrl))
