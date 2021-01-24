@@ -1,0 +1,9 @@
+*logs*
+*mods
+*saves
+*.mixin.out
+*resourcepacks
+.curseclient
+*schematics
+options.txt
+reauth.toml
