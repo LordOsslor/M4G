@@ -81,6 +81,7 @@ if args.purge:
             continue
         os.remove(os.path.join('mods', f))
 
+
 instance = open('minecraftinstance.json', 'r')
 instanceJson = json.load(instance)
 installedAddons = instanceJson['installedAddons']
@@ -88,6 +89,10 @@ totalModCount = len(installedAddons)
 
 modfiles = os.listdir('mods')
 installedModCount = len(modfiles)
+if (totalModCount - installedModCount <= 0):
+    print('All mods installed. Use "update.py -p" to remove all mods.')
+    os.abort()
+
 print(str.format('Found {} of {} ({}%) mods in mods-folder.',
                  installedModCount, totalModCount, getPercent(installedModCount, totalModCount)))
 downloadCount = totalModCount - installedModCount
