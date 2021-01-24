@@ -1,8 +1,18 @@
+from genericpath import exists
 import json
 import os
 import requests
 import math
 import sys
+import argparse
+
+
+parser = argparse.ArgumentParser(
+    description='Automatically update Curseforge mods.')
+parser.add_argument('-y', help='Say yes to all prompts.', action='store_true')
+parser.add_argument(
+    '-p', '--purge', help='Delete all mods and download them fresh.', action='store_true')
+args = parser.parse_args()
 
 
 def convert_size(size_bytes):
@@ -55,6 +65,22 @@ def getPercent(p, q):
 
 
 print('Started mod Update.')
+
+
+if not exists('minecraftinstance.json'):
+    print(str.format(
+        '"minecraftinstance.json" not found! Current working directory is "{}"', os.getcwd()))
+
+if not exists('mods'):
+    if args.y or query_yes_no('Mods folder not found. Should it be generated?'):
+        os.mkdir('mods')
+
+if args.purge:
+    for f in os.listdir('mods'):
+        if not f.endswith(".jar"):
+            continue
+        os.remove(os.path.join('mods', f))
+
 instance = open('minecraftinstance.json', 'r')
 instanceJson = json.load(instance)
 installedAddons = instanceJson['installedAddons']
@@ -72,7 +98,7 @@ for addon in installedAddons:
     if not fileName in modfiles:
         totalLength += addon['installedFile']['fileLength']
 totalSize = convert_size(totalLength)
-if not query_yes_no((totalSize + ' of mods will be downloaded. Continue? (Y/N)')):
+if not args.y and not query_yes_no((totalSize + ' of mods will be downloaded. Continue? (Y/N)')):
     os.abort()
 
 i = 0
@@ -84,8 +110,8 @@ for addon in installedAddons:
     downloadUrl = installedFile['downloadUrl']
     fileLength = installedFile['fileLength']
     if not fileName in modfiles:
-        print(str.format('{} of {} ({}% of {}) Mods downloaded; Downloading mod: "{}" ({})...',
-                         i, downloadCount, getPercent(alreadyDownloaded, totalLength), convert_size(totalLength), displayName, convert_size(fileLength)))
+        print(str.format('{} of {} ({} of {}, {}%) Mods downloaded; Downloading mod: "{}" ({})...',
+                         i, downloadCount, convert_size(alreadyDownloaded), convert_size(totalLength), getPercent(alreadyDownloaded, totalLength), displayName, convert_size(fileLength)))
         req = requests.get(downloadUrl)
         with open(os.path.join('mods', fileName), 'wb') as f:
             f.write(req.content)
