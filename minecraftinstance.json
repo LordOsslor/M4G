@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-01-25T20:52:35.7356284Z",
+  "lastPlayed": "2021-01-25T21:02:38.6762639Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.4",
@@ -5640,6 +5640,92 @@
       "installedTargets": null
     },
     {
+      "addonID": 250832,
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
+      "installedFile": {
+        "id": 3179579,
+        "displayName": "elevatorid-1.16.5-1.7.12.jar",
+        "fileName": "elevatorid-1.16.5-1.7.12.jar",
+        "fileDate": "2021-01-24T13:45:48.023Z",
+        "fileLength": 183555,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3179/579/elevatorid-1.16.5-1.7.12.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1732455914,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xyz",
+            "fingerprint": 3867108472,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4059724616,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4269820384,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 2583521980,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 972975125,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2368011952,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "elevatorid-1.16.5-1.7.12.jar"
+      },
+      "dateInstalled": "2021-01-25T20:54:59.2342853Z",
+      "dateUpdated": "2021-01-25T20:54:59.2362851Z",
+      "dateLastUpdateAttempted": "2021-01-25T20:54:59.2362851Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 250277,
       "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
@@ -10383,6 +10469,77 @@
       "installedTargets": null
     },
     {
+      "addonID": 347954,
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
+      "installedFile": {
+        "id": 3166271,
+        "displayName": "Lollipop-1.16.4-3.2.4.jar",
+        "fileName": "Lollipop-1.16.4-3.2.4.jar",
+        "fileDate": "2021-01-12T13:31:17.307Z",
+        "fileLength": 677665,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3166/271/Lollipop-1.16.4-3.2.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3655532756,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "owmii",
+            "fingerprint": 3782229103,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2860827963,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3717667376,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 6011170,
+        "gameVersion": [
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Lollipop-1.16.4-3.2.4.jar"
+      },
+      "dateInstalled": "2021-01-25T19:41:45.7853031Z",
+      "dateUpdated": "2021-01-25T19:41:45.7872851Z",
+      "dateLastUpdateAttempted": "2021-01-25T19:41:45.7872851Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 228756,
       "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
@@ -10450,77 +10607,6 @@
       "dateInstalled": "2021-01-25T19:41:45.245119Z",
       "dateUpdated": "2021-01-25T19:41:45.2471027Z",
       "dateLastUpdateAttempted": "2021-01-25T19:41:45.2471027Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 347954,
-      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
-      "installedFile": {
-        "id": 3166271,
-        "displayName": "Lollipop-1.16.4-3.2.4.jar",
-        "fileName": "Lollipop-1.16.4-3.2.4.jar",
-        "fileDate": "2021-01-12T13:31:17.307Z",
-        "fileLength": 677665,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3166/271/Lollipop-1.16.4-3.2.4.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3655532756,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "owmii",
-            "fingerprint": 3782229103,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2860827963,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3717667376,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 6011170,
-        "gameVersion": [
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Lollipop-1.16.4-3.2.4.jar"
-      },
-      "dateInstalled": "2021-01-25T19:41:45.7853031Z",
-      "dateUpdated": "2021-01-25T19:41:45.7872851Z",
-      "dateLastUpdateAttempted": "2021-01-25T19:41:45.7872851Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -10982,91 +11068,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 245506,
-      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
-      "installedFile": {
-        "id": 3106617,
-        "displayName": "minecolonies-0.13.437-RELEASE-universal.jar",
-        "fileName": "minecolonies-0.13.437-RELEASE-universal.jar",
-        "fileDate": "2020-11-09T09:13:20.853Z",
-        "fileLength": 34010127,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3106/617/minecolonies-0.13.437-RELEASE-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 3106618,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 298744,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2762802540,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 888133328,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1902442246,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1355987511,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1448355638,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3677754883,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "minecolonies-0.13.437-RELEASE-universal.jar"
-      },
-      "dateInstalled": "2021-01-25T19:41:57.4197277Z",
-      "dateUpdated": "2021-01-25T19:41:57.4367268Z",
-      "dateLastUpdateAttempted": "2021-01-25T19:41:57.4367268Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 291737,
       "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
@@ -11147,6 +11148,91 @@
       "dateInstalled": "2021-01-25T19:42:02.1319565Z",
       "dateUpdated": "2021-01-25T19:42:02.1339279Z",
       "dateLastUpdateAttempted": "2021-01-25T19:42:02.1339279Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 245506,
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
+      "installedFile": {
+        "id": 3106617,
+        "displayName": "minecolonies-0.13.437-RELEASE-universal.jar",
+        "fileName": "minecolonies-0.13.437-RELEASE-universal.jar",
+        "fileDate": "2020-11-09T09:13:20.853Z",
+        "fileLength": 34010127,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3106/617/minecolonies-0.13.437-RELEASE-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 3106618,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 298744,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2762802540,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 888133328,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1902442246,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1355987511,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1448355638,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3677754883,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "minecolonies-0.13.437-RELEASE-universal.jar"
+      },
+      "dateInstalled": "2021-01-25T19:41:57.4197277Z",
+      "dateUpdated": "2021-01-25T19:41:57.4367268Z",
+      "dateLastUpdateAttempted": "2021-01-25T19:41:57.4367268Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -11422,7 +11508,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 246640,
@@ -12686,6 +12772,72 @@
       "installedTargets": null
     },
     {
+      "addonID": 256717,
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
+      "installedFile": {
+        "id": 3137103,
+        "displayName": "Clumps-6.0.0.13.jar",
+        "fileName": "Clumps-6.0.0.13.jar",
+        "fileDate": "2020-12-13T00:26:58.56Z",
+        "fileLength": 14988,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3137/103/Clumps-6.0.0.13.jar",
+        "isAlternate": false,
+        "alternateFileId": 3137104,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4010022895,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3993002691,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3623522934,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 303149247,
+        "gameVersion": [
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Clumps-6.0.0.13.jar"
+      },
+      "dateInstalled": "2021-01-25T19:42:13.2573143Z",
+      "dateUpdated": "2021-01-25T19:42:13.2593397Z",
+      "dateLastUpdateAttempted": "2021-01-25T19:42:13.2593397Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 231095,
       "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
@@ -12767,72 +12919,6 @@
       "dateInstalled": "2021-01-25T19:42:12.8757851Z",
       "dateUpdated": "2021-01-25T19:42:12.8777637Z",
       "dateLastUpdateAttempted": "2021-01-25T19:42:12.8777637Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 256717,
-      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
-      "installedFile": {
-        "id": 3137103,
-        "displayName": "Clumps-6.0.0.13.jar",
-        "fileName": "Clumps-6.0.0.13.jar",
-        "fileDate": "2020-12-13T00:26:58.56Z",
-        "fileLength": 14988,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3137/103/Clumps-6.0.0.13.jar",
-        "isAlternate": false,
-        "alternateFileId": 3137104,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4010022895,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3993002691,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3623522934,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 303149247,
-        "gameVersion": [
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Clumps-6.0.0.13.jar"
-      },
-      "dateInstalled": "2021-01-25T19:42:13.2573143Z",
-      "dateUpdated": "2021-01-25T19:42:13.2593397Z",
-      "dateLastUpdateAttempted": "2021-01-25T19:42:13.2593397Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -13682,6 +13768,109 @@
       "installedTargets": null
     },
     {
+      "addonID": 282940,
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
+      "installedFile": {
+        "id": 3163761,
+        "displayName": "mysticalworld-1.16.4-0.3.1.6.jar",
+        "fileName": "mysticalworld-1.16.4-0.3.1.6.jar",
+        "fileDate": "2021-01-10T01:01:07.293Z",
+        "fileLength": 3463791,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3163/761/mysticalworld-1.16.4-0.3.1.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2944289412,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "epicsquid",
+            "fingerprint": 29229720,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 2494829908,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 773840821,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1283645437,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2913511222,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "noobanidus",
+            "fingerprint": 117083529,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "noobutil",
+            "fingerprint": 2013924832,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2669063836,
+        "gameVersion": [
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "mysticalworld-1.16.4-0.3.1.6.jar"
+      },
+      "dateInstalled": "2021-01-25T19:42:31.6306375Z",
+      "dateUpdated": "2021-01-25T19:42:31.6346374Z",
+      "dateLastUpdateAttempted": "2021-01-25T19:42:31.6346374Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 235595,
       "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
@@ -13774,109 +13963,6 @@
       "dateInstalled": "2021-01-25T19:42:30.7191515Z",
       "dateUpdated": "2021-01-25T19:42:30.721131Z",
       "dateLastUpdateAttempted": "2021-01-25T19:42:30.721131Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 282940,
-      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
-      "installedFile": {
-        "id": 3163761,
-        "displayName": "mysticalworld-1.16.4-0.3.1.6.jar",
-        "fileName": "mysticalworld-1.16.4-0.3.1.6.jar",
-        "fileDate": "2021-01-10T01:01:07.293Z",
-        "fileLength": 3463791,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3163/761/mysticalworld-1.16.4-0.3.1.6.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306770,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2944289412,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "epicsquid",
-            "fingerprint": 29229720,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": ".cache",
-            "fingerprint": 2494829908,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 773840821,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1283645437,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2913511222,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "noobanidus",
-            "fingerprint": 117083529,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "noobutil",
-            "fingerprint": 2013924832,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2669063836,
-        "gameVersion": [
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "mysticalworld-1.16.4-0.3.1.6.jar"
-      },
-      "dateInstalled": "2021-01-25T19:42:31.6306375Z",
-      "dateUpdated": "2021-01-25T19:42:31.6346374Z",
-      "dateLastUpdateAttempted": "2021-01-25T19:42:31.6346374Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
