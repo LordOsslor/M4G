@@ -117,12 +117,12 @@ def main():
     modFiles = os.listdir('mods')
     instance = open('minecraftinstance.json', 'r+')
     instanceJson = json.load(instance)
-    if not instanceJson['installPath'] == cwd:
-        instanceJson['installPath'] = cwd
-        print(str.format('Install path of the modpack set to: {}', cwd))
-        nam = input('Enter Modpack Name!')
-        instanceJson['name'] = nam
-        json.dump(instanceJson, instance)
+    # if not instanceJson['installPath'] == cwd:
+    #     instanceJson['installPath'] = cwd
+    #     print(str.format('Install path of the modpack set to: {}', cwd))
+    #     nam = input('Enter Modpack Name!')
+    #     instanceJson['name'] = nam
+    #     json.dump(instanceJson, instance)
 
     addons = instanceJson['installedAddons']
     addonFiles = getInstanceFiles(addons)
