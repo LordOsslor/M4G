@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-01-25T20:12:47.2997621Z",
+  "lastPlayed": "2021-01-25T20:52:35.7356284Z",
   "manifest": {
     "minecraft": {
       "version": "1.16.4",
@@ -1166,13 +1166,13 @@
   ],
   "isMemoryOverride": false,
   "allocatedMemory": 12288,
-  "guid": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+  "guid": "b8232034-cb51-4848-9866-071d82f5091d",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\Oskar\\Twitch\\Minecraft\\Instances\\M4G lel\\",
-  "name": "M4G lel",
+  "installPath": "C:\\Users\\Oskar\\Twitch\\Minecraft\\Instances\\M4G CLONE\\",
+  "name": "M4G CLONE",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-01-25T19:53:40.8829814Z",
+  "lastPreviousMatchUpdate": "2021-01-25T20:53:57.7126707Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.4",
@@ -1193,11 +1193,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2021-01-25T19:53:34.9567194Z",
+  "installDate": "2021-01-25T20:45:51.9958369Z",
   "installedAddons": [
     {
       "addonID": 240630,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3166519,
         "displayName": "JustEnoughResources-1.16.4-0.12.0.104",
@@ -1267,7 +1267,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1276,7 +1276,7 @@
     },
     {
       "addonID": 290209,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3087309,
         "displayName": "RFToolsPower - 1.16-3.0.8",
@@ -1371,7 +1371,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1380,7 +1380,7 @@
     },
     {
       "addonID": 328085,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3167531,
         "displayName": "Create - mc1.16.3+4+5_v0.3e.jar",
@@ -1464,7 +1464,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1473,7 +1473,7 @@
     },
     {
       "addonID": 271835,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155831,
         "displayName": "thermal_cultivation-1.16.3-1.1.6.jar",
@@ -1556,7 +1556,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1565,7 +1565,7 @@
     },
     {
       "addonID": 351491,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3173951,
         "displayName": "extradisks-1.16.4-1.5.0.jar",
@@ -1649,7 +1649,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1658,7 +1658,7 @@
     },
     {
       "addonID": 264601,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3093086,
         "displayName": "Overloaded-1.16.3-0.0.90.jar",
@@ -1734,7 +1734,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1743,7 +1743,7 @@
     },
     {
       "addonID": 256247,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3156602,
         "displayName": "MysticalAgradditions-1.16.4-4.1.3.jar",
@@ -1826,7 +1826,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1835,7 +1835,7 @@
     },
     {
       "addonID": 342584,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3101763,
         "displayName": "collective-1.16.4-1.53.jar",
@@ -1892,7 +1892,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1901,7 +1901,7 @@
     },
     {
       "addonID": 358191,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3172839,
         "displayName": "PackMenu-1.16.4-2.3.1.jar",
@@ -1977,7 +1977,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -1986,7 +1986,7 @@
     },
     {
       "addonID": 378802,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171697,
         "displayName": "Structure Gel 1.16.4-v1.7.5",
@@ -2079,7 +2079,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2088,7 +2088,7 @@
     },
     {
       "addonID": 305840,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3150841,
         "displayName": "absentbydesign-1.16.4-1.3.1.jar",
@@ -2164,7 +2164,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2173,7 +2173,7 @@
     },
     {
       "addonID": 69118,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3114135,
         "displayName": "Morpheus-1.16.4-4.2.68.jar",
@@ -2236,7 +2236,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2245,7 +2245,7 @@
     },
     {
       "addonID": 247921,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3168248,
         "displayName": "ZeroCore2-1.16.4-2.0.19.jar",
@@ -2322,7 +2322,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2331,7 +2331,7 @@
     },
     {
       "addonID": 225643,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3175663,
         "displayName": "Botania-1.16.4-411.jar",
@@ -2438,7 +2438,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2447,7 +2447,7 @@
     },
     {
       "addonID": 355440,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171082,
         "displayName": "immersive-portals-0.14-mc1.16.4-forge.jar",
@@ -2545,7 +2545,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2554,7 +2554,7 @@
     },
     {
       "addonID": 352656,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3170574,
         "displayName": "Powah-1.16.4-2.3.9.jar",
@@ -2635,7 +2635,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2644,7 +2644,7 @@
     },
     {
       "addonID": 222880,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155830,
         "displayName": "thermal_foundation-1.16.3-1.1.6.jar",
@@ -2727,7 +2727,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2736,7 +2736,7 @@
     },
     {
       "addonID": 404465,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3133000,
         "displayName": "ftb-gui-library-1604.1.1.26.jar",
@@ -2800,7 +2800,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2809,7 +2809,7 @@
     },
     {
       "addonID": 244049,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155205,
         "displayName": "woot-1.16.4-1.0.3.0.jar",
@@ -2879,7 +2879,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2888,7 +2888,7 @@
     },
     {
       "addonID": 237366,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3164140,
         "displayName": "armorplus-1.16.3-16.2.2.jar",
@@ -2995,7 +2995,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3004,7 +3004,7 @@
     },
     {
       "addonID": 345425,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3134215,
         "displayName": "MekanismAdditions-1.16.4-10.0.18.445.jar",
@@ -3087,7 +3087,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3096,7 +3096,7 @@
     },
     {
       "addonID": 268560,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3134211,
         "displayName": "Mekanism-1.16.4-10.0.18.445.jar",
@@ -3215,7 +3215,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3224,7 +3224,7 @@
     },
     {
       "addonID": 404468,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3176237,
         "displayName": "ftb-teams-1604.1.0.14-forge.jar",
@@ -3303,7 +3303,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3312,7 +3312,7 @@
     },
     {
       "addonID": 268566,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3134213,
         "displayName": "MekanismGenerators-1.16.4-10.0.18.445.jar",
@@ -3395,7 +3395,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3404,7 +3404,7 @@
     },
     {
       "addonID": 268567,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3134214,
         "displayName": "MekanismTools-1.16.4-10.0.18.445.jar",
@@ -3487,7 +3487,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3496,7 +3496,7 @@
     },
     {
       "addonID": 69162,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155824,
         "displayName": "cofh_core-1.16.3-1.1.6.jar",
@@ -3579,7 +3579,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3588,7 +3588,7 @@
     },
     {
       "addonID": 69163,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155832,
         "displayName": "thermal_expansion-1.16.3-1.1.6.jar",
@@ -3671,7 +3671,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3680,7 +3680,7 @@
     },
     {
       "addonID": 405593,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3173269,
         "displayName": "alltheores-1.1.20-1.16.4-35.1.13.jar",
@@ -3750,7 +3750,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3759,7 +3759,7 @@
     },
     {
       "addonID": 363820,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3172543,
         "displayName": "0.2.0-RC-3",
@@ -3871,7 +3871,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3880,7 +3880,7 @@
     },
     {
       "addonID": 340991,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3177267,
         "displayName": "Druidcraft-1.16.5-0.4.52.jar",
@@ -3952,120 +3952,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 231821,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
-      "installedFile": {
-        "id": 3160965,
-        "displayName": "Dramatic Skys Demo",
-        "fileName": "Dramatic+Sky+for+1.16+ (1).zip",
-        "fileDate": "2021-01-07T04:13:48.03Z",
-        "fileLength": 8906876,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3160/965/Dramatic+Sky+for+1.16+ (1).zip",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "assets",
-            "fingerprint": 1532301906,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1055925324,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.png",
-            "fingerprint": 4192992832,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 949264602,
-        "gameVersion": [
-          "1.9.1",
-          "1.16-Snapshot",
-          "1.13.1",
-          "1.8.7",
-          "1.9.3",
-          "1.16.3",
-          "1.15-Snapshot",
-          "1.16.1",
-          "1.10-Snapshot",
-          "1.12",
-          "1.12.1",
-          "1.8.4",
-          "1.9.2",
-          "1.9.4",
-          "1.14.1",
-          "1.14.4",
-          "1.13",
-          "1.14.3",
-          "1.15",
-          "1.16",
-          "1.8.8",
-          "1.10.2",
-          "1.11",
-          "1.8-Snapshot",
-          "1.8.3",
-          "1.8.6",
-          "1.14",
-          "1.15.2",
-          "1.10.1",
-          "1.10",
-          "1.8",
-          "1.8.2",
-          "1.9-Snapshot",
-          "1.14.2",
-          "1.16.4",
-          "1.11.1",
-          "1.11.2",
-          "1.16.2",
-          "1.9",
-          "1.11-Snapshot",
-          "1.12.2",
-          "1.8.5",
-          "1.12-Snapshot",
-          "1.13-Snapshot",
-          "1.8.1",
-          "1.13.2",
-          "1.14-Snapshot",
-          "1.8.9",
-          "1.15.1"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2014-06-17T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Dramatic+Sky+for+1.16+ (1).zip"
-      },
-      "dateInstalled": "2021-01-25T19:40:56.3167261Z",
-      "dateUpdated": "2021-01-25T19:40:56.3227277Z",
-      "dateLastUpdateAttempted": "2021-01-25T19:40:56.3227277Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4074,7 +3961,7 @@
     },
     {
       "addonID": 332640,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3161082,
         "displayName": "[1.16.4] Mining World 1.16.4-1.0.3",
@@ -4149,7 +4036,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4158,7 +4045,7 @@
     },
     {
       "addonID": 250763,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3096835,
         "displayName": "RFToolsControl - 1.16-4.0.6",
@@ -4253,7 +4140,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4262,7 +4149,7 @@
     },
     {
       "addonID": 382216,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3157757,
         "displayName": "Abnormals Core 1.16.4 - 3.0.6",
@@ -4363,7 +4250,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4372,7 +4259,7 @@
     },
     {
       "addonID": 367178,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3101832,
         "displayName": "treeharvester_1.16.4-2.0.jar",
@@ -4436,7 +4323,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4445,7 +4332,7 @@
     },
     {
       "addonID": 368293,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3169638,
         "displayName": " Repurposed Structures v2.3.4 (1.16.3 & 1.16.4 & 1.16.5 MC)",
@@ -4534,7 +4421,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4543,7 +4430,7 @@
     },
     {
       "addonID": 245755,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3098215,
         "displayName": "Waystones_1.16.3-7.3.1.jar",
@@ -4612,16 +4499,16 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 231275,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3062074,
         "displayName": "Ding-1.16.3-1.2.0.jar",
@@ -4685,7 +4572,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4694,7 +4581,7 @@
     },
     {
       "addonID": 283644,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3172794,
         "displayName": "Placebo-1.16.4-4.4.1.jar",
@@ -4757,7 +4644,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4766,7 +4653,7 @@
     },
     {
       "addonID": 245211,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3157997,
         "displayName": "TheOneProbe - 1.16-3.0.7",
@@ -4855,7 +4742,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4864,7 +4751,7 @@
     },
     {
       "addonID": 347706,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3140151,
         "displayName": "RFToolsBuilder - 1.16-3.0.13",
@@ -4959,7 +4846,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4968,7 +4855,7 @@
     },
     {
       "addonID": 241319,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3119035,
         "displayName": "reliquary-1.16.3-1.3.4.1061.jar",
@@ -5057,7 +4944,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5066,7 +4953,7 @@
     },
     {
       "addonID": 377794,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171706,
         "displayName": "Dungeons Plus 1.16.4-v1.1.2",
@@ -5148,7 +5035,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5157,7 +5044,7 @@
     },
     {
       "addonID": 406201,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3173955,
         "displayName": "blame-forge-1.16.3/1.16.4/1.16.5-1.9.1",
@@ -5235,7 +5122,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5244,7 +5131,7 @@
     },
     {
       "addonID": 248020,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3174798,
         "displayName": "Flux-Networks-1.16.5-6.1.6",
@@ -5364,7 +5251,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5373,7 +5260,7 @@
     },
     {
       "addonID": 282001,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3170424,
         "displayName": "cc-tweaked-1.16.4-1.95.2.jar",
@@ -5460,7 +5347,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5469,7 +5356,7 @@
     },
     {
       "addonID": 429625,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3157832,
         "displayName": "eidolon-0.2.7.jar",
@@ -5564,7 +5451,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5573,7 +5460,7 @@
     },
     {
       "addonID": 384508,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3160068,
         "displayName": "Resourceful Bees 1.16.4-0.5.8b",
@@ -5660,7 +5547,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5669,7 +5556,7 @@
     },
     {
       "addonID": 394535,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3167781,
         "displayName": "trashcans-1.0.6a-mc1.16.4",
@@ -5745,7 +5632,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5754,7 +5641,7 @@
     },
     {
       "addonID": 250277,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3168249,
         "displayName": "ExtremeReactors2-1.16.4-2.0.21.jar",
@@ -5850,7 +5737,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5859,7 +5746,7 @@
     },
     {
       "addonID": 399558,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3132410,
         "displayName": "constructionwand-1.16.2-1.7.jar",
@@ -5942,7 +5829,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -5951,7 +5838,7 @@
     },
     {
       "addonID": 248055,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3108730,
         "displayName": "thedragonlib-1.16.3-1.1.0.jar",
@@ -6009,7 +5896,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6018,7 +5905,7 @@
     },
     {
       "addonID": 366140,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171297,
         "displayName": "dynviewdist-1.8.jar",
@@ -6080,7 +5967,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6089,7 +5976,7 @@
     },
     {
       "addonID": 298744,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3100325,
         "displayName": "structurize-0.13.96-ALPHA-universal.jar",
@@ -6159,7 +6046,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6168,7 +6055,7 @@
     },
     {
       "addonID": 326041,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3140147,
         "displayName": "RFToolsBase - 1.16-2.0.9",
@@ -6257,7 +6144,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6266,7 +6153,7 @@
     },
     {
       "addonID": 352222,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171104,
         "displayName": "dimdungeons-1.081.jar",
@@ -6348,7 +6235,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6357,7 +6244,7 @@
     },
     {
       "addonID": 314904,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3038811,
         "displayName": "ftb-backups-2.1.1.6.jar",
@@ -6429,7 +6316,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6438,7 +6325,7 @@
     },
     {
       "addonID": 421850,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171935,
         "displayName": "[1.16.4 / 1.16.5] YUNG's API vForge-3",
@@ -6497,7 +6384,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6506,7 +6393,7 @@
     },
     {
       "addonID": 314906,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3176162,
         "displayName": "ftb-chunks-1604.2.2.61.jar",
@@ -6615,7 +6502,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6624,7 +6511,7 @@
     },
     {
       "addonID": 349447,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155826,
         "displayName": "ensorcellation-1.16.3-1.1.2.jar",
@@ -6701,7 +6588,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6710,7 +6597,7 @@
     },
     {
       "addonID": 264231,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3162719,
         "displayName": "iceandfire-2.1.5-1.16.4",
@@ -6786,7 +6673,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6795,7 +6682,7 @@
     },
     {
       "addonID": 246974,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3076560,
         "displayName": "[1.16.2-1.16.5] Solar Flux Reborn - 16.2.3",
@@ -6861,7 +6748,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6870,7 +6757,7 @@
     },
     {
       "addonID": 243076,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3157354,
         "displayName": "Refined Storage 1.9.11",
@@ -6951,7 +6838,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -6960,7 +6847,7 @@
     },
     {
       "addonID": 265917,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3122292,
         "displayName": "jeiintegration_1.16.4-6.1.1.11",
@@ -7036,7 +6923,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7045,7 +6932,7 @@
     },
     {
       "addonID": 318833,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3163078,
         "displayName": "AdLods-1.16.4-4.1.3.0-build.0034.jar",
@@ -7139,7 +7026,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7148,7 +7035,7 @@
     },
     {
       "addonID": 309927,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3168960,
         "displayName": "curios-forge-1.16.4-4.0.3.5.jar",
@@ -7242,7 +7129,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7251,7 +7138,7 @@
     },
     {
       "addonID": 290433,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3138793,
         "displayName": "Chargers-1.16.4-3.0.2.4.jar",
@@ -7335,7 +7222,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7344,7 +7231,7 @@
     },
     {
       "addonID": 231951,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3141693,
         "displayName": "ImmersiveEngineering-1.16.4-4.1.2-129",
@@ -7449,7 +7336,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7458,7 +7345,7 @@
     },
     {
       "addonID": 324973,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3160501,
         "displayName": "DungeonCrawl-1.16.3-2.2.4",
@@ -7523,7 +7410,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7532,7 +7419,7 @@
     },
     {
       "addonID": 353942,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3152350,
         "displayName": "snowundertrees-1.16.4/.5-v1.1.3.jar",
@@ -7590,7 +7477,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7599,7 +7486,7 @@
     },
     {
       "addonID": 342804,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3093477,
         "displayName": "Pandoras Creatures-1.16.3-2.0.1",
@@ -7675,7 +7562,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7684,7 +7571,7 @@
     },
     {
       "addonID": 247560,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3159758,
         "displayName": " Biomes You Go 1.1.6 MCV: 1.16.3/1.16.4/1.16.5",
@@ -7785,7 +7672,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7794,7 +7681,7 @@
     },
     {
       "addonID": 340583,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3170047,
         "displayName": "[1.16.4 / 1.16.5] YUNG's Better Caves v1.1.1",
@@ -7884,7 +7771,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7893,7 +7780,7 @@
     },
     {
       "addonID": 273744,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3143059,
         "displayName": "U-Team-Core-1.16.4-3.1.17.191",
@@ -7987,7 +7874,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7996,7 +7883,7 @@
     },
     {
       "addonID": 243121,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3177615,
         "displayName": "Quark-r2.4-297.jar",
@@ -8097,7 +7984,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8106,7 +7993,7 @@
     },
     {
       "addonID": 266515,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3167607,
         "displayName": "industrial-foregoing-1.16.4-3.2.8.2-6b5c95b.jar",
@@ -8214,7 +8101,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8223,7 +8110,7 @@
     },
     {
       "addonID": 250363,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3128555,
         "displayName": "AutoRegLib-1.6-47.jar",
@@ -8288,7 +8175,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8297,7 +8184,7 @@
     },
     {
       "addonID": 301051,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3088871,
         "displayName": "QuarkOddities-1.16.3.jar",
@@ -8369,7 +8256,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8378,7 +8265,7 @@
     },
     {
       "addonID": 254268,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3133390,
         "displayName": "torchmaster-2.3.5-alpha.jar",
@@ -8446,7 +8333,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8455,7 +8342,7 @@
     },
     {
       "addonID": 419699,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3181132,
         "displayName": "[Forge 1.16.4/5] v1.4.100",
@@ -8537,7 +8424,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8546,7 +8433,7 @@
     },
     {
       "addonID": 233105,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3131241,
         "displayName": "McJtyLib - 1.16-5.0.15",
@@ -8623,7 +8510,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8632,7 +8519,7 @@
     },
     {
       "addonID": 274338,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3106326,
         "displayName": "Useful-Backpacks-1.16.4-1.11.6.86",
@@ -8732,7 +8619,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8741,7 +8628,7 @@
     },
     {
       "addonID": 55438,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3081350,
         "displayName": "Furniture Mod 7.0.0-pre19",
@@ -8824,7 +8711,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8833,7 +8720,7 @@
     },
     {
       "addonID": 243707,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3170383,
         "displayName": "Corail Tombstone 6.2.5 for 1.16.3+",
@@ -8904,7 +8791,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8913,7 +8800,7 @@
     },
     {
       "addonID": 220318,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3177136,
         "displayName": "Biomes O' Plenty 1.16.4-13.0.0.430",
@@ -8994,7 +8881,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9003,7 +8890,7 @@
     },
     {
       "addonID": 250398,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3110995,
         "displayName": "Controlling-7.0.0.11.jar",
@@ -9066,7 +8953,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9075,7 +8962,7 @@
     },
     {
       "addonID": 333396,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3056161,
         "displayName": "Angel Ring v1.3.3 [1.16.2/1.16.3/1.16.4/1.16.5]",
@@ -9154,7 +9041,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9163,7 +9050,7 @@
     },
     {
       "addonID": 224791,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3170548,
         "displayName": "BloodMagic-1.16.3-3.0.6-11.jar",
@@ -9258,7 +9145,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9267,7 +9154,7 @@
     },
     {
       "addonID": 244844,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3161169,
         "displayName": "ForgeEndertech-1.16.4-7.0.9.0-build.0032.jar",
@@ -9385,7 +9272,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9394,7 +9281,7 @@
     },
     {
       "addonID": 307788,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3099033,
         "displayName": "rsrequestify-1.16.3-2.0.1.jar",
@@ -9477,7 +9364,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9486,7 +9373,7 @@
     },
     {
       "addonID": 278825,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3154957,
         "displayName": "enviromats-1.16.4-2.0.6.0.jar",
@@ -9569,7 +9456,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9578,7 +9465,7 @@
     },
     {
       "addonID": 268250,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3143267,
         "displayName": "ImmersivePetroleum-1.16.4-3.1.0-2.jar",
@@ -9659,7 +9546,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9668,7 +9555,7 @@
     },
     {
       "addonID": 280510,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3170195,
         "displayName": "AttributeFix-1.16.4-9.0.5.jar",
@@ -9725,7 +9612,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9734,7 +9621,7 @@
     },
     {
       "addonID": 406959,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155835,
         "displayName": "thermal_locomotion-1.16.3-1.1.6.jar",
@@ -9817,7 +9704,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9826,7 +9713,7 @@
     },
     {
       "addonID": 238747,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3038982,
         "displayName": "1.15.0",
@@ -9891,16 +9778,16 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 376883,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3148484,
         "displayName": "Hexxit Gear 2-1.16.4-1.2",
@@ -9975,7 +9862,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -9984,7 +9871,7 @@
     },
     {
       "addonID": 401955,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3178901,
         "displayName": "ars_nouveau-1.16.4-1.11.2.jar",
@@ -10072,7 +9959,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10081,7 +9968,7 @@
     },
     {
       "addonID": 288885,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171218,
         "displayName": "FastWorkbench-1.16.4-4.5.0.jar",
@@ -10157,7 +10044,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10166,7 +10053,7 @@
     },
     {
       "addonID": 248787,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3035787,
         "displayName": "AppleSkin-mc1.16.2-forge-1.0.14.jar",
@@ -10231,7 +10118,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10240,7 +10127,7 @@
     },
     {
       "addonID": 245453,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3155947,
         "displayName": "envirotech-1.16.4-3.0.6.1.jar",
@@ -10329,7 +10216,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10338,7 +10225,7 @@
     },
     {
       "addonID": 420913,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3158412,
         "displayName": "smoothboot-forge-1.16.4-1.2.0.jar",
@@ -10416,7 +10303,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10425,7 +10312,7 @@
     },
     {
       "addonID": 238222,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3157864,
         "displayName": "jei-1.16.4-7.6.1.65.jar",
@@ -10488,7 +10375,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10497,7 +10384,7 @@
     },
     {
       "addonID": 228756,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3105315,
         "displayName": "ironchest-1.16.4-11.2.10.jar",
@@ -10567,7 +10454,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10576,7 +10463,7 @@
     },
     {
       "addonID": 347954,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3166271,
         "displayName": "Lollipop-1.16.4-3.2.4.jar",
@@ -10638,7 +10525,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10647,7 +10534,7 @@
     },
     {
       "addonID": 267193,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3159221,
         "displayName": "Chunk Pregenerator-V1.16-3.0.3",
@@ -10703,7 +10590,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10712,7 +10599,7 @@
     },
     {
       "addonID": 245480,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3154961,
         "displayName": "valkyrielib-1.16.4-3.0.6.1.jar",
@@ -10788,7 +10675,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10797,7 +10684,7 @@
     },
     {
       "addonID": 314002,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3055679,
         "displayName": "overloadedarmorbar-5.1.0.jar",
@@ -10855,7 +10742,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10864,7 +10751,7 @@
     },
     {
       "addonID": 386415,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3103750,
         "displayName": "towers_of_the_wild-1.16.4-2.0.1.jar",
@@ -10927,7 +10814,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -10936,7 +10823,7 @@
     },
     {
       "addonID": 237701,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3105779,
         "displayName": "ReAuth-3.9.3-Forge 1.16.x",
@@ -11002,7 +10889,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11011,7 +10898,7 @@
     },
     {
       "addonID": 306770,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3126931,
         "displayName": "Patchouli-1.16.4-48.jar",
@@ -11087,7 +10974,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11096,7 +10983,7 @@
     },
     {
       "addonID": 245506,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3106617,
         "displayName": "minecolonies-0.13.437-RELEASE-universal.jar",
@@ -11172,7 +11059,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11181,7 +11068,7 @@
     },
     {
       "addonID": 291737,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3156588,
         "displayName": "thermal_innovation-1.16.3-1.1.7.jar",
@@ -11264,7 +11151,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11273,7 +11160,7 @@
     },
     {
       "addonID": 284497,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3173404,
         "displayName": "IronJetpacks-1.16.4-4.2.0.jar",
@@ -11350,7 +11237,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11359,7 +11246,7 @@
     },
     {
       "addonID": 285612,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3158999,
         "displayName": "RandomPatches 2.1.5-forge",
@@ -11457,7 +11344,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11465,8 +11352,81 @@
       "installedTargets": null
     },
     {
+      "addonID": 299540,
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
+      "installedFile": {
+        "id": 3172796,
+        "displayName": "FastFurnace-1.16.4-4.4.0.jar",
+        "fileName": "FastFurnace-1.16.4-4.4.0.jar",
+        "fileDate": "2021-01-18T18:21:32.303Z",
+        "fileLength": 14614,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3172/796/FastFurnace-1.16.4-4.4.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 283644,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1787013860,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "shadows",
+            "fingerprint": 3254850185,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 135111852,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3123588329,
+        "gameVersion": [
+          "1.16.5",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "FastFurnace-1.16.4-4.4.0.jar"
+      },
+      "dateInstalled": "2021-01-25T20:54:31.9635388Z",
+      "dateUpdated": "2021-01-25T20:54:31.9725388Z",
+      "dateLastUpdateAttempted": "2021-01-25T20:54:31.9725388Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 246640,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3152061,
         "displayName": "MysticalAgriculture-1.16.4-4.1.4.jar",
@@ -11549,7 +11509,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11558,7 +11518,7 @@
     },
     {
       "addonID": 354143,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3163347,
         "displayName": "performant-1.16.2-4-3.30m.jar",
@@ -11629,7 +11589,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11638,7 +11598,7 @@
     },
     {
       "addonID": 229380,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3164771,
         "displayName": "InventoryPets-1.16-2.0.11",
@@ -11714,7 +11674,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11723,7 +11683,7 @@
     },
     {
       "addonID": 345795,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3154953,
         "displayName": "envirocore-1.16.4-3.0.6.0.jar",
@@ -11806,7 +11766,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11815,7 +11775,7 @@
     },
     {
       "addonID": 316833,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3162044,
         "displayName": "ObserverLib-1.16.4-1.5.1.jar",
@@ -11884,7 +11844,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11893,7 +11853,7 @@
     },
     {
       "addonID": 374771,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3153975,
         "displayName": "EnderMail-1.16.4-1.2.0.jar",
@@ -11962,7 +11922,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -11971,7 +11931,7 @@
     },
     {
       "addonID": 342466,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3152948,
         "displayName": "RFToolsUtility - 1.16-3.0.20",
@@ -12066,7 +12026,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12075,7 +12035,7 @@
     },
     {
       "addonID": 233300,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3141105,
         "displayName": "Extra Golems 11.2.0",
@@ -12180,7 +12140,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12189,7 +12149,7 @@
     },
     {
       "addonID": 347488,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3089925,
         "displayName": "Valhelsia Structures - 16.0.5",
@@ -12265,7 +12225,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12274,7 +12234,7 @@
     },
     {
       "addonID": 242223,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3132143,
         "displayName": "JustEnoughCalculation-1.16.4-3.6.3.jar",
@@ -12350,7 +12310,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12359,7 +12319,7 @@
     },
     {
       "addonID": 272302,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3065694,
         "displayName": "Refined Storage Addons 0.7.2",
@@ -12436,7 +12396,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12445,7 +12405,7 @@
     },
     {
       "addonID": 287342,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3163247,
         "displayName": "titanium-1.16.4-3.2.5.jar",
@@ -12534,7 +12494,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12543,7 +12503,7 @@
     },
     {
       "addonID": 60089,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3035780,
         "displayName": "[1.16.2] Mouse Tweaks 2.13",
@@ -12609,7 +12569,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12618,7 +12578,7 @@
     },
     {
       "addonID": 431611,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3166881,
         "displayName": "veinmining-forge-1.16.4-0.6.jar",
@@ -12718,7 +12678,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12727,7 +12687,7 @@
     },
     {
       "addonID": 231095,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3176033,
         "displayName": "C&B 0.2.10",
@@ -12811,7 +12771,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12820,7 +12780,7 @@
     },
     {
       "addonID": 256717,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3137103,
         "displayName": "Clumps-6.0.0.13.jar",
@@ -12877,7 +12837,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12886,7 +12846,7 @@
     },
     {
       "addonID": 388172,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3180434,
         "displayName": "forge-1.16.5-geckolib-3.0.3.jar",
@@ -12956,7 +12916,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -12965,7 +12925,7 @@
     },
     {
       "addonID": 262292,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3118215,
         "displayName": "MagmaMonsters-0.5.3.jar",
@@ -13028,7 +12988,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13037,7 +12997,7 @@
     },
     {
       "addonID": 432182,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3158056,
         "displayName": "RefinedStorage4ComputerCraft-1.16.4-1.1.0.jar",
@@ -13131,7 +13091,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13140,7 +13100,7 @@
     },
     {
       "addonID": 263420,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3173805,
         "displayName": "v21.1.0 for Forge 1.16.5 - 1.16.2",
@@ -13206,7 +13166,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13215,7 +13175,7 @@
     },
     {
       "addonID": 272335,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3105891,
         "displayName": "Cucumber-1.16.4-4.1.5.jar",
@@ -13279,7 +13239,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13288,7 +13248,7 @@
     },
     {
       "addonID": 331936,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3131923,
         "displayName": " citadel-1.5.3-1.16.4",
@@ -13357,7 +13317,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13366,7 +13326,7 @@
     },
     {
       "addonID": 232791,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3171886,
         "displayName": "itlt-1.16.x-1.0.5.jar",
@@ -13440,7 +13400,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13449,7 +13409,7 @@
     },
     {
       "addonID": 379849,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3176785,
         "displayName": "The Undergarden 0.4.5",
@@ -13543,7 +13503,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13552,7 +13512,7 @@
     },
     {
       "addonID": 238372,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3178386,
         "displayName": "Neat 1.7-26.jar",
@@ -13617,7 +13577,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13626,7 +13586,7 @@
     },
     {
       "addonID": 241721,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3156477,
         "displayName": "AstralSorcery-1.16.4-1.13.9.jar",
@@ -13714,7 +13674,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13723,7 +13683,7 @@
     },
     {
       "addonID": 235595,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3142776,
         "displayName": "NotEnoughWands - 1.16-3.0.1",
@@ -13818,7 +13778,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13827,7 +13787,7 @@
     },
     {
       "addonID": 282940,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3163761,
         "displayName": "mysticalworld-1.16.4-0.3.1.6.jar",
@@ -13921,7 +13881,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -13930,7 +13890,7 @@
     },
     {
       "addonID": 358700,
-      "gameInstanceID": "e86ebce6-941f-4f9e-bc25-ab7433ddd695",
+      "gameInstanceID": "b8232034-cb51-4848-9866-071d82f5091d",
       "installedFile": {
         "id": 3037991,
         "displayName": "moredragoneggs-1.4.jar",
@@ -13990,7 +13950,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
