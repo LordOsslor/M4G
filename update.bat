@@ -6,7 +6,7 @@ python -c "import requests"
 if errorlevel 1 goto errorNoReq
 
 :ok
-python update.py
+python update.py -d
 goto:end
 
 :errorNoReq

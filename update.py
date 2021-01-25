@@ -1,5 +1,6 @@
 from genericpath import exists
 import json
+from json.encoder import JSONEncoder
 import os
 import requests
 import math
@@ -9,6 +10,8 @@ import argparse
 
 parser = argparse.ArgumentParser(
     description='Automatically update Curseforge mods.')
+parser.add_argument(
+    '-d', help='Delete all mods not in json.', action='store_true')
 parser.add_argument('-y', help='Say yes to all prompts.', action='store_true')
 parser.add_argument(
     '-p', '--purge', help='Delete all mods and download them fresh.', action='store_true')
@@ -64,65 +67,117 @@ def getPercent(p, q):
     return round((p / q) * 100)
 
 
-print('Started mod Update.')
+def getInstanceFiles(addons):
+    addonFiles = []
+    for addon in addons:
+        if not type(addon['installedFile']) == type(None):
+            list.append(addonFiles, addon['installedFile'])
+
+    return addonFiles
 
 
-if not exists('minecraftinstance.json'):
-    print(str.format(
-        '"minecraftinstance.json" not found! Current working directory is "{}"', os.getcwd()))
-
-if not exists('mods'):
-    if args.y or query_yes_no('Mods folder not found. Should it be generated?'):
-        os.mkdir('mods')
-
-if args.purge:
-    for f in os.listdir('mods'):
-        if not f.endswith(".jar"):
-            continue
-        os.remove(os.path.join('mods', f))
+def getInstalledMods(addonFiles, modFiles):
+    installedAddonFiles = []
+    missingAddonFiles = []
+    excessFiles = list.copy(modFiles)
+    for addonFile in addonFiles:
+        if addonFile['fileName'] in modFiles:
+            list.remove(excessFiles, addonFile['fileName'])
+            list.append(installedAddonFiles, addonFile)
+        else:
+            list.append(missingAddonFiles, addonFile)
+    return installedAddonFiles, missingAddonFiles, excessFiles
 
 
-instance = open('minecraftinstance.json', 'r')
-instanceJson = json.load(instance)
-installedAddons = instanceJson['installedAddons']
-totalModCount = len(installedAddons)
+def getSize(AddonFiles):
+    totalSize = 0
+    for missingAddonFile in AddonFiles:
+        totalSize += missingAddonFile['fileLength']
+    return totalSize
 
-modfiles = os.listdir('mods')
-installedModCount = len(modfiles)
-if (totalModCount - installedModCount <= 0):
-    print('All mods installed. Use "update.py -p" to remove all mods.')
-    os.abort()
 
-print(str.format('Found {} of {} ({}%) mods in mods-folder.',
-                 installedModCount, totalModCount, getPercent(installedModCount, totalModCount)))
-downloadCount = totalModCount - installedModCount
+def main():
 
-totalLength = 0
-for addon in installedAddons:
-    fileName = addon['installedFile']['fileName']
-    if not fileName in modfiles:
-        totalLength += addon['installedFile']['fileLength']
-totalSize = convert_size(totalLength)
-if not args.y and not query_yes_no((totalSize + ' of mods will be downloaded. Continue? (Y/N)')):
-    os.abort()
+    querySkip = args.y
+    if not exists('minecraftinstance.json'):
+        print(str.format(
+            '"minecraftinstance.json" not found! Current working directory is "{}"', os.getcwd()))
 
-i = 0
-alreadyDownloaded = 0
-for addon in installedAddons:
-    installedFile = addon['installedFile']
-    displayName = installedFile['displayName']
-    fileName = installedFile['fileName']
-    downloadUrl = installedFile['downloadUrl']
-    fileLength = installedFile['fileLength']
-    if not fileName in modfiles:
-        print(str.format('{} of {} ({} of {}, {}%) Mods downloaded; Downloading mod: "{}" ({})...',
-                         i, downloadCount, convert_size(alreadyDownloaded), convert_size(totalLength), getPercent(alreadyDownloaded, totalLength), displayName, convert_size(fileLength)))
-        req = requests.get(downloadUrl)
-        with open(os.path.join('mods', fileName), 'wb') as f:
-            f.write(req.content)
-            f.close()
-        i += 1
-        alreadyDownloaded += fileLength
-print(str.format('{} of {} ({} of {}, {}%) Mods downloaded', i, downloadCount, convert_size(
-    alreadyDownloaded), convert_size(totalLength), getPercent(alreadyDownloaded, totalLength)))
-print("Successfully downloaded all mods.")
+    if not exists('mods'):
+        if querySkip or query_yes_no('Mods folder not found. Should it be generated?'):
+            os.mkdir('mods')
+    if args.purge:
+        print('Purging mods folder:')
+        for modFile in os.listdir('mods'):
+            os.remove(os.path.join('mods', modFile))
+            print(str.format('Deleted {}', modFile))
+
+    # globals:
+    modFiles = os.listdir('mods')
+    instance = open('minecraftinstance.json', 'r')
+    instanceJson = json.load(instance)
+    addons = instanceJson['installedAddons']
+    addonFiles = getInstanceFiles(addons)
+    installedAddonFiles, missingAddonFiles, excessFiles = getInstalledMods(
+        addonFiles, modFiles)
+
+    totalAddonCount = len(addons)
+    installedAddonCount = len(installedAddonFiles)
+    missingAddonCount = len(missingAddonFiles)
+    excessFileCount = len(excessFiles)
+    totalDownloadSize = getSize(missingAddonFiles)
+    totalReadableSize = convert_size(totalDownloadSize)
+
+    if(totalDownloadSize > 0):
+        print(str.format('Found {} of {} ({}%) mods in mods-folder, missing {} mods ({}).',
+                         installedAddonCount, totalAddonCount, getPercent(installedAddonCount, totalAddonCount), missingAddonCount, totalReadableSize))
+
+        if querySkip or query_yes_no((totalReadableSize + ' of mods will be downloaded. Continue? (Y/N)')):
+            fileNameList = {}
+            i = 0
+            alreadyDownloaded = 0
+            for installedFile in missingAddonFiles:
+                displayName = installedFile['displayName']
+                fileName = installedFile['fileName']
+                downloadUrl = installedFile['downloadUrl']
+                fileLength = installedFile['fileLength']
+                fileNameList[i] = fileName
+                if not fileName in modFiles:
+                    print(str.format('{} of {} ({} of {}, {}%) Mods downloaded; Downloading mod: "{}" ({})...',
+                                     i, missingAddonCount, convert_size(alreadyDownloaded), totalReadableSize, getPercent(alreadyDownloaded, totalDownloadSize), displayName, convert_size(fileLength)))
+                    req = requests.get(downloadUrl)
+                    with open(os.path.join('mods', fileName), 'wb') as modFile:
+                        modFile.write(req.content)
+                        modFile.close()
+                    i += 1
+                    alreadyDownloaded += fileLength
+
+            print(str.format('{} of {} ({} of {}, {}%) Mods downloaded', i, missingAddonCount, convert_size(
+                alreadyDownloaded), convert_size(totalDownloadSize), getPercent(alreadyDownloaded, totalDownloadSize)))
+            print("Successfully downloaded all mods.")
+
+    if args.d and excessFileCount > 0:
+        print('Removing excess Files:')
+        totalExcessSize = 0
+        for excessFile in excessFiles:
+            totalExcessSize += os.path.getsize(
+                os.path.join('mods', excessFile))
+            print(excessFile)
+        if querySkip or query_yes_no(str.format('{} ({}) mods will be deleted. Continue?',
+                                                excessFileCount, convert_size(totalExcessSize))) or querySkip:
+            for excessFile in excessFiles:
+                os.remove(os.path.join('mods', excessFile))
+
+    modFiles2 = os.listdir('mods')
+    installedAddonFiles2, missingAddonFiles2, excessFiles2 = getInstalledMods(
+        addonFiles, modFiles2)
+    totalInstall = len(installedAddonFiles2) - len(missingAddonFiles2)
+    totalDownload = missingAddonCount - len(missingAddonFiles2)
+    totalExcess = excessFileCount - len(excessFiles2)
+    print(len(missingAddonFiles2))
+    print(str.format('Mod update completed.\r\nDownloaded {} mods, missing {}. Excess files deleted: {}. Total mods: {}',
+                     totalDownload, len(missingAddonFiles2), totalExcess, totalInstall))
+
+
+print('Started mod update.')
+main()
