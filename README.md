@@ -1,2 +1,2 @@
 # M4G
-SOOS
+Minecraft Curseforge modpack
